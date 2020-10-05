@@ -1,1 +1,1 @@
-# PgP-AIML-UT-Austin-Projects
+# Projects
